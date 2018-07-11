@@ -1,0 +1,80 @@
+html body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+}
+
+body{
+    /* background-image: url("../image/concrete-texture.png"); */
+}
+
+
+.header-left {
+    margin-left: 330px;
+    float: left;
+    background: #4aaaa5;
+}
+
+ .header-right {
+     float: right;
+     margin-right: 335px;
+}
+span{
+    margin-top: 10px;
+    float: right;
+    padding: 10px 0 0 5px;
+}
+ 
+ul {margin:0; padding:0; list-style-type: none;}
+ul li {float:right; padding:10px; margin-left: 10px; }
+ul li a {float:right; font-size:16px; padding: 10px 0 0 5px; text-decoration: none; }
+
+
+ hr {
+     clear: both;
+     overflow: auto;
+ }
+ 
+header {
+    font-family: Georgia, "Times New Roman", Times, serif; 
+    background-color: #ffffff;
+    border: solid 1px #cccccc;
+}
+
+.container {
+   clear: both;
+    background-image: url("../image/concrete-texture.png");
+}
+.bio-heading {
+    color: #4aaaa5;
+}
+
+#bio,
+#bio-image {
+  margin:auto;
+  width: 960px;
+}
+
+#bio-image {
+    width: 200px;
+    height: 200px;
+    margin-right: 21px;
+  }
+
+
+
+.footer {
+    text-align: center;
+    clear: both;
+    height: 50px;
+    background-color: #666666;
+    border-top: solid 6px #4aaaa5;
+}
+  
+
+ 
+
